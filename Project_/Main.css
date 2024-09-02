@@ -1,0 +1,430 @@
+* {
+    outline: none;
+  }
+  input[type="text"]{
+    border:none;/*ИЗМЕНИЛО РАМКИ*/
+    /* border-color: rgb(249, 250, 251); */
+    padding: 12px 50px 12px 12px;
+}
+input[id="name"]{
+    padding: 12px 220px 12px 12px;
+}
+button[id="karch"]{
+    margin:38px 0px 0px 630px;
+    padding: 8px 14px;
+    border-radius: 12px;
+    background: rgb(139, 92, 246);
+    color:azure;
+    border: none;
+    color: rgb(249, 250, 251);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+button[id="Rass"]{
+    /* -webkit-appearance: none; */
+    /* -webkit-writing-mode: horizontal-tb !important; */
+    margin: 0px 0px 0px 140px;
+    padding: 10px 40px 10px 28px;
+    border-radius: 4px;
+    background: rgb(139, 92, 246);
+    width: 477px;
+    height: 44px;
+    color:azure;
+    border: none;
+    color: rgb(249, 250, 251);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+
+}
+.body{
+    margin: 0;
+}
+.header-line1
+{
+    display:flex;
+    margin:24px 0px;
+    align-items: center;
+}
+.header-line2{
+    display:flex;
+}
+.container{
+    width: 1536px;
+    margin: 0px auto;
+}
+.container-1{
+    width:1536px;
+    margin: 0px auto;
+    background: rgb(229, 231, 235);
+}
+.right-line{
+
+    padding-left:515px;
+    align-items: center;
+    display:flex
+
+}
+.r-text{
+    /* 2xl/black */
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: left;
+    padding-left: 4px;
+}
+.bor{
+    border-right: 1px solid rgb(167, 139, 250);
+    width: -76px;
+    order: 1;
+    align-self: stretch;
+}
+.lefnum{
+    /* display:flex */
+    width: 349px;
+    height: 72px;
+    font-weight: 400;
+    text-align:right
+
+}
+.header{
+    /* Gray/50 */
+    /* background: rgb(249, 250, 251); */
+    margin-bottom: 48px;
+}
+.lefnum{
+    position: static;
+    width: 349px;
+    height: 72px;
+    margin: 0px 12px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.group-number{
+    /* position:absolute; */
+    /* Frame 5 */
+    padding-left:12px ;
+}
+.undernum{
+    /* 2xl/light */
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 32px;
+
+    text-align: left;
+}
+.number{
+    /* 4xl/black */
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.text{
+    text-decoration-skip:dashed ;
+    text-decoration:none;
+}
+.class01{
+    color: rgb(139, 92, 246);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-style:dashed;
+    padding-bottom: 3px;
+    margin-right: 24px
+}
+.class02{
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-right: 24px
+}
+.class03{
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-right: 24px
+
+}
+.class04{
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.zav{
+    /* base/bold */
+    color: rgb(249, 250, 251);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 968px;
+    background-color:blueviolet;
+    padding: 10px 28px;
+}
+.head-body{
+ /* Gray/50 */
+
+    /* background:cover;  */
+}
+.bod3{
+    /* Rectangle 2 */
+    max-width: 757px;
+    width: auto;
+    height: auto;
+    max-height: 353px;
+
+}
+.bod1{
+
+    width: 756px;
+    height: 120px;
+    font-family: Formular;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 40px;
+}
+.bod2{
+    font-family: Formular;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.line-head{
+    display:flex;
+    justify-content:space-between;
+}
+.txt1{
+    /* 3xl/bold */
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+}
+.txt2{
+    /* base/regular */
+    color: rgb(17, 24, 39);
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.part1{
+    display:flex;
+    justify-content:space-between
+
+}
+.part2{
+    display:flex;
+    justify-content:space-between
+
+}
+.part3{
+    display:flex;
+    justify-content:space-between
+}
+.part4{
+    display:flex;
+    justify-content:space-between
+}
+.name{
+    text-align: center;
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    text-align:start;
+    margin: 40px 142px 20px 142px;
+    weight:578px
+
+}
+.poch{
+    text-align:start;
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    right:24px;
+    margin: 0px 0px 20px 142px;
+}
+.num{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    margin: 0px 142px 20px 0px;
+    text-align:start;
+}
+.S{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    right:24px;
+    margin: 0px 0px 20px 142px;
+    text-align:start;
+}
+.weight{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    right:24px;
+    margin: 0px 142px 20px 0px;
+    text-align:start;
+}
+.coun{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    right:24px;
+    margin: 0px 0px 20px 142px;
+    text-align:start;
+}
+.city{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 2px;
+    right:24px;
+    margin: 0px 142px 20px 0px;
+    text-align:start;
+}
+.dost-obl{
+    box-sizing: border-box;
+/* Gray/900 */
+    border: 1px solid rgb(49, 49, 49);
+    border-radius: 4px;
+    right:24px;
+    margin: 0px 0px 20px 142px;
+    text-align:start;
+}
+.dost-gor{
+    border: 1px solid rgb(49, 49, 49);
+    right:24px;
+    outline: 0;
+    margin: 0px 142px 20px 0px;
+    text-align:start;
+}
+.form{
+    border-radius: 16px;
+/* Gray/50 */
+    background: rgb(249, 250, 251);
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 24px 0px 24px 0px;
+
+    /* Inside Auto Layout */
+    order: 1;
+    align-self: stretch;
+}
+.button{
+    /* margin: 0px 140px 0px 140px;
+    padding: 10px 80px 10px 28px;
+    border-radius: 4px;
+    background: rgb(139, 92, 246);
+    width: 496px;
+    height: 44px; */
+
+}
+#name{
+    outline: 0;
+}
+.button{
+    -webkit-appearance: none;
+}
+.img1{
+    position:relative;
+    Object-fit: cover;
+}
+.pict{
+    display:flex;
+    justify-content:space-between;
+}
+.zag{
+    margin:72px 0px 0px 0px;
+    text-align:center;
+}
+.zag1{
+    margin:0px 0px 12px 0px;
+    font-family: Formular;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 36px;
+}
+.zag2{
+    margin:0px 0px 24px 0px;
+    font-family: Formular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.poh{
+    text-align:center;
+    font-family: Formular;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 28px;
+}
+.poh2{
+    text-align:center;
+    font-family: Formular;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 28px;
+}
+.poh3{
+    text-align:center;
+    font-family: Formular;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 28px;
+}
+.poh4{
+    text-align:center;
+    font-family: Formular;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 28px;
+}
+@media(max-width: 1200px){
+    .body{
+        width: 768px;
+        grid-template-columns: 1fr 280px;
+    }
+}

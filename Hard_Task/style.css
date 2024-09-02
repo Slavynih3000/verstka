@@ -1,0 +1,115 @@
+.present{
+    display:flex;
+}
+.img{
+    
+}
+.log{
+    width:7.8vw;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3vw;
+    font-weight: 900;
+    padding:0px;
+    margin:0vw;
+}
+.present{
+    margin-left:13.5vw;
+
+}
+.videos{
+    margin-left:6.1vw;
+    background-image: url('image/vid1.jpeg') no-repeat;
+    /* background-repeat: no-repeat; */
+    width: 53vw;
+    /* width:56%; */
+    height: 45.3vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btex{
+    margin-top: 28vw;
+    line-height: 0;
+    position:absolute;
+}
+.cl{
+    margin: 1.5vw;
+}
+.cl1{
+    /* line-height: 2vw; */
+    background-color: rgb(255, 203, 139);
+    padding: 1.5vw;
+    color:white
+}
+.link{
+    background: rgb(65, 81, 103);
+    background-position:  bottom right;
+    width: 20vw;
+    /* width:26%; */
+    border: none;
+
+} 
+*{
+    margin:0px;
+}
+.video{
+    margin-top: 1vw;
+}
+a{
+    text-decoration: none;
+    font-family: "Nunito", sans-serif;
+    Font-weight: 100;
+    color:rgb(237, 240, 245)
+
+}
+.links{
+    Font-size: 1.1vw;
+
+}
+p{
+    font-family: "Nunito", sans-serif;
+
+}
+.mar{
+    padding-left: 4.3vw;
+    padding-top:5.4vw;
+    line-height: 2.5;
+}
+ul{
+    padding-inline-start: 0px;
+}
+.mag{
+    padding-left: 4.4vw;
+    padding-top:3vw;
+    display:flex;
+}
+.mag1{
+    max-width: 1.1vw;
+    padding-top:0.5vw;
+}
+a:hover{
+    color:white;
+    Font-weight: 700;
+}
+.mag1:hover{
+    max-width: 1.2vw;
+}
+.cal{
+    border-radius:100%;
+    background-color:rgb(240, 200, 140);
+    max-width: 0.9vw;
+    max-height:0.9vw;
+    vertical-align: middle;
+    text-align: center;
+    Font-size: 1vw;
+    padding: 0% 0.3% 0.3% 0.3%;
+    position: absolute;
+    margin: 0vw 0vw 0 1vw;
+    color:white;
+}
+.cal:hover{
+    max-width: 1.1vw;
+    max-height:1.1vw;
+    padding: 0.1% 0.3% 0.2% 0.3%;
+}
